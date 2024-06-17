@@ -1,0 +1,41 @@
+h1{
+
+text-align: center;
+
+}
+
+.box{
+
+
+
+margin: auto;
+font-size: 30px;
+
+}
+.flex{
+display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.item-center{
+    align-items: center;
+    /* justify-content: center; */
+}
+
+
+
+.input{
+    border:2px solid black;
+    border-radius: 5px;
+    margin:0;
+    padding:10px 37px;
+}
+.clear{
+
+    border:2px solid black;
+    border-radius: 5px;
+    margin:0;
+    font-size: 20px;
+    padding:10px 37px;
+}
